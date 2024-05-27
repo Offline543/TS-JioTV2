@@ -27,7 +27,7 @@ $json = json_decode(file_get_contents(base64_decode(strrev($url))), true);
 
 $sony_data = <<<GFG
 
-#EXTINF:-1 tvg-id="291" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="TS-JioTV SonyLIV",SONY HD
+#EXTINF:-1 tvg-id="291" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Zee Yuva.html",Zee Yuva.html
 https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
 
 #EXTINF:-1 tvg-id="471" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="TS-JioTV SonyLIV",SONY SAB HD
